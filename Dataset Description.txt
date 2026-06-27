@@ -1,0 +1,30 @@
+Each row represents one residential house and its physical, location, and construction details.
+
+  Feature                                  Description
+
+1.  Id---------------------Unique identification number for each house
+
+2.  MSSubClass-------------Type of dwelling involved in the sale (numerical code representing building class such as 20 = 1-Story, 60 = 2-Story, etc.)
+
+3.  MSZoning---------------General zoning classification of the sale (Residential Low Density, Medium Density, etc.)
+
+4.  LotArea----------------Lot size in square feet
+
+5.  LotConfig--------------Lot configuration (Inside, Corner, Cul-de-sac, etc.)
+
+6.  BldgType---------------Type of dwelling (1Fam, 2Fam, Duplex, Townhouse, etc.)
+
+7.  OverallCond------------Overall condition rating of the house (scale 1-10)
+
+8.  YearBuilt--------------Original construction year
+
+9.  YearRemodAdd-----------Year the house was remodeled or additions were made
+
+10. Exterior1st------------Exterior covering on house VinylSd, MetalSd, HdBoard, etc.)
+
+11. BsmtFinSF2-------------Type 2 finished square feet of basement
+
+12. TotalBsmtSF------------Total square feet of basement area
+
+13. SalePrice--------------Final selling price of the house
+    (Target)
