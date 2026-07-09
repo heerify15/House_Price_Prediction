@@ -23,5 +23,20 @@ This project predicts house prices using a Linear Regression model built with Sc
 - RMSE: 41,138.56
 - MAPE: 18.74%
 
+## 📁 Project Structure
+
+Below is the repository layout:
+
+```text
+├── Dataset/
+│   ├── house_prices.csv
+│   └── dataset_description.txt
+├── Notebook/
+│   └── HousePricePrediction.ipynb         
+├── Output/
+│   ├── actual_vs_predicted_house_prices.jpg     # Graph
+└── README.md                            
+```
+
 ## Author
 Heer Shah
